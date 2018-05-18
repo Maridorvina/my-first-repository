@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Usando títulos e parágrafos</title>
+<meta charset="UTF-8">
+
+<body>
+<h1>Título</h1>
+<h2>Subtítulo</h2>
+
+<p>Mais uma modificação adicionada com sucesso</p>
+
+<p>em sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.<br><br>
+Lorem Ipsum sobreviveu não só a cinco séculos, 
+como também ao salto para a editoração eletrônica, 
+permanecendo essencialmente inalterado.<br><br>Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, 
+e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+
